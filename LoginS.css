@@ -1,0 +1,26 @@
+
+        body{
+            text-align: center;
+            border: 3px solid rgb(37, 8, 141);
+            border-radius: 5px;
+            width: 25%;
+            height: 300px;
+            border-style: dotted solid;
+        }
+        
+        button{
+            padding: 7px 40px;
+            background-color: #e7e7e7; color: black;
+            align-self:center;
+        }
+
+        input{
+            padding: 7px 42px;
+            text-align:center;
+            background-color: #e7e7e7; color: black;
+        }
+        body {
+            background: rgb(187, 183, 223) !important;  
+          }
+
+          
